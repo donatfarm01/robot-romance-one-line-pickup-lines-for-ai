@@ -44,4 +44,5 @@ recorded in the build report as well.
 
 The repository holds the program, this build note, a readme written from the
 bounty template with the owner and repository names filled in, an MIT licence,
-and a claim file naming the payout wallet.
+and a claim file naming the payout wallet. A small fix after the first commit
+filled in the readme footer referral placeholder with donatfarm01.
